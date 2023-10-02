@@ -1,12 +1,22 @@
- Hi there 👋
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm94NzE5dWcyZDVtOXkxaTk1bjVudmhscmh3MWs3a3dwaXIwdWIwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100"/>
+### Hi there 👋
+<div id="header" align="centre">
+ <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
 
-<!--
-**Snerdify/Snerdify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+ <a href= "https://www.linkedin.com/in/sanskruti-jaiswal-32a4a1196/" >
+<img src= "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+ </a>
+ <a href="https://twitter.com/SanskrutiJaisw5">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+ </a>
+<div>
+ 
 
-Here are some ideas to get you started:
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
