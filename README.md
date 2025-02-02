@@ -19,7 +19,3 @@
 
 
 - 🔭 AI/ML ENGINEER.
-- 🌱 I’m currently learning Langchain , Next.Js , Docarray , Rasa , Weaviate , Pinecone.
-- 💬 Ask me about cutting-edge tech . 
-
--->
