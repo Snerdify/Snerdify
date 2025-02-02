@@ -18,8 +18,8 @@
 
 
 
-- 🔭 I’m currently working on Full Stack AI applications
+- 🔭 AI/ML ENGINEER.
 - 🌱 I’m currently learning Langchain , Next.Js , Docarray , Rasa , Weaviate , Pinecone.
-- 💬 Ask me about cutting-edge tech 
-- ⚡ Fun fact: --------
+- 💬 Ask me about cutting-edge tech . 
+
 -->
