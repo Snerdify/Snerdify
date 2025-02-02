@@ -19,3 +19,5 @@
 
 
 - 🔭 AI/ML ENGINEER.
+- Prev Blockchain Dev @NonceBlox , StartupCrafters
+- Prev Community Builder @Founderstank 
