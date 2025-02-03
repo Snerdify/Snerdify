@@ -49,15 +49,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
  </a>
 </div>
-
----
-
-### **📊 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanskrutiJaiswal&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskrutiJaiswal&theme=radical" height="180"/>
-</p>
-
 ---
 
 ⭐ **Feel free to explore my repositories!** 🚀✨
